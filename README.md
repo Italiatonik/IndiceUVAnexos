@@ -5,7 +5,8 @@ Este repositorio contiene diferentes prototipos desarrollados con Arduino para l
 ## 📂 Estructura del repositorio
 - **Prototipo1/** → Primer diseño del proyecto, pruebas iniciales de sensores y conexiones.
 - **Prototipo2/** → Mejoras en el código y en la lectura de datos.
-- **Prototipo3/** → Versión más completa con integración de red neuronal.
+- **Prototipo3/** → Creación de red neuronal.
+- **Prototipo3/** → Integración de red neuronal en Arduino.
 
 ## 🚀 Cómo usar
 1. Abre la carpeta del prototipo que quieras probar.
