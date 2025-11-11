@@ -10,7 +10,7 @@ Este repositorio contiene diferentes prototipos desarrollados con Arduino para l
 ## 🚀 Cómo usar
 1. Abre la carpeta del prototipo que quieras probar.
 2. Carga el archivo `.ino` en el **Arduino IDE**.
-3. Verifica que tengas instaladas las librerías necesarias (ver archivo `librerias_extra.txt` si existe).
+3. Verifica que tengas instaladas las librerías necesarias.
 4. Sube el programa a tu placa Arduino.
 
 ## 🛠️ Requisitos
